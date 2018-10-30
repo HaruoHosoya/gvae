@@ -4,6 +4,11 @@ The code relies on
   * matconvnet-1.0-beta25 (downloadable from [2])
   * Matlab implementation of ADAM optimizer (modified from Dylan Muir's implementation [3]; included in the code here)
 
+The required toolboxes are:
+  * Parallel computing toolbox
+  * Image processing toolbox
+  * Statistics amd machine learning toolbox
+
 To understand how the code works, it is recommended to start by looking at the app_chairs folder, especially:
   * chairs_setup_ds.m
   * chairs_train_models.m
