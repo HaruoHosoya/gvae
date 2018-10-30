@@ -7,7 +7,8 @@ The code relies on
 The required toolboxes are:
   * Parallel computing toolbox
   * Image processing toolbox
-  * Statistics amd machine learning toolbox
+  * Statistics and machine learning toolbox
+  * Optimization
 
 To understand how the code works, it is recommended to start by looking at the app_chairs folder, especially:
   * chairs_setup_ds.m
